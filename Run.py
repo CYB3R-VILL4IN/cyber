@@ -2,7 +2,7 @@ import os, sys
 
 try:
 
-    __import__("𝐂𝐘𝐁𝐄𝐑-𝐕𝐈𝐋𝐋𝐀𝐈𝐍.py").__SHA4T0____()
+    __import__("𝐂𝐘𝐁𝐄𝐑-𝐕𝐈𝐋𝐋𝐀𝐈𝐍.py").______()
 
 except Exception as e:
 
